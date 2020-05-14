@@ -1,20 +1,40 @@
 body{
-  background-color:#ecfbfc;
-}
-img {
-  height: 200px;
-}
-hr{
-  border-style: none;
-  border-top-style: dotted;
-  background-color:#ecfbfc;
-  width: 5%;
-  border-color:grey;
-  border-width:8px;
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif;
+
 }
 h1{
-  color: #3b6978;
+  font-family: Pacifico ,cursive;
+  margin-top: 0;
 }
-h2 {
-  color: #3b6978;
+h2{
+  font-family: Merienda ,cursive;
+}
+h3{
+  font-family: Merienda,cursive;
+}
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 200px;}
+
+
+}
+.web{
+  text-decoration: underline;
+}
+.cloud1{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.cloud2{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.mountain{
+  height: 400px;
+  width: 400px;
 }
